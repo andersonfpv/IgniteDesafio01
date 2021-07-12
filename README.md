@@ -1,7 +1,7 @@
 <h1 align="center">Ignite(React-Native) - Desafio 01</h1>
 
 
-<p align="center">🚀 Este desafio é parte do Capítulo I do Ignite da Rocketseate, ele tem como objetivo treinar o que foi aprendido sobre React-native. </p>
+<h2 align="center">🚀 Este desafio é parte do Capítulo I do Ignite da Rocketseat, ele tem como objetivo treinar o que foi aprendido sobre React-native. </h2>
 
 <p>Essa é uma aplicação de lembrete de tarefas. As funcionalidades do aplicativo são: </p>
 
@@ -24,7 +24,6 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
